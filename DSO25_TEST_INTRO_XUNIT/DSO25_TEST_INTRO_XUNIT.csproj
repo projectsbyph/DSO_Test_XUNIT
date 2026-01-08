@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include=".github\worklfows\tests.yml" />
+    <None Include=".github\workflows\tests.yml" />
   </ItemGroup>
 
 </Project>

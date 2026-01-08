@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSO25_TEST_INTRO_XUNIT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69b2c8e55235d40868e100c8b112726479c230df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea0114435fd4539e995823a2a86b842c8fb3be7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSO25_TEST_INTRO_XUNIT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSO25_TEST_INTRO_XUNIT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
