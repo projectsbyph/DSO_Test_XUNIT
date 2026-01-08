@@ -1,0 +1,21 @@
+﻿name: Run unit tests
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+        - name: Checkout repository
+          uses: actions/checkout@v10
+
+        - name: Set up .NET
+          uses: actions/setup-dotnet@v10
+          with:
+            dotnet-version: '10.0.x'
+
+        - name: Restore dependencies
+          run: dotnet restore

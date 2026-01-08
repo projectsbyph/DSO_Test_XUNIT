@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include=".github\worklfows\tests.yml" />
+  </ItemGroup>
+
 </Project>
