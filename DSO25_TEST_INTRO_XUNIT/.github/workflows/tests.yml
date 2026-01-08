@@ -20,5 +20,5 @@ jobs:
         - name: restore dependencies
           run: dotnet restore
 
-        - name: Run unit tests
+        - name: Run unit test
           run: dotnet test 
